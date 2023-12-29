@@ -1,2 +1,2 @@
 # samar
-Sample module for teaching Samar
+Sample modules for teaching Samar
